@@ -1,1 +1,9 @@
-# Ci-ncia-de-Dados-EBAC
+## Ciência de dados. Os tópicos incluem:
+
+### Fundamentos de Machine Learning
+
+### Programação em Python
+
+### Análise de Dados
+
+### Cálculos Avançados
