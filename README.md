@@ -1,4 +1,4 @@
-## Ciência de dados. Os tópicos incluem:
+## Os tópicos incluem:
 
 ### Fundamentos de Machine Learning
 
