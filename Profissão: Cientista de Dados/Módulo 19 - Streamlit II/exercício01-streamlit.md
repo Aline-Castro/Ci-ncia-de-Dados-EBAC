@@ -2,7 +2,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 Exercício 1:
-Nessa atividade foi desenvolvido, ao longo do módulo, enfatizes aos botões e caixa de seleção no streamlit.
+Nessa atividade foi desenvolvido, ao longo do módulo, ênfases aos botões e caixa de seleção no streamlit.
 
 
 
