@@ -3,7 +3,6 @@
 
 Exercício 2:
 Nessa atividade foi desenvolvido, ao longo do módulo, ênfasesnas interações com o usuário (Subir arquivos e disponibilizar para download).
-![image](https://github.com/Aline-Castro/Ciencia-de-Dados/assets/92234598/bbbe8d87-d0f2-4541-86b8-730ca3541cb9)
 
 
 
