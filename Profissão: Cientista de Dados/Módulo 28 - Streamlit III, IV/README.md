@@ -1,55 +1,40 @@
-# Título do projeto
+# Módulo 28 - Streamlit III e IV: Telemarketing
 
-Um simples resumo do uso/propósito do projeto.
+Análise da possibilidade de uma pessoa fazer um empréstimo
 
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Este projeto consiste em uma plataforma projetada para otimizar o gerenciamento de campanhas de telemarketing.
+Com uma interface intuitiva, a plataforma permite o controle eficaz de filtros que ajudam a direcionar as 
+campanhas de marketing para um público-alvo mais inclinado a adquirir empréstimos bancários.
+
+### Link para a aplicação (LIVE)
+https://telemarketing-aw41.onrender.com/
 
 ## Utilização
 
 ### Dependencias
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+* Sistema Operacional: Windows 10
+* Navegador: Google Chrome, versão 96.0.4664.110 ou superior
+* Node.js, versão 14.17.1 ou superior.
 
 ### Instalação
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
+* Faça o download do projeto a partir do repositório GitHub
+* Instale as dependências do projeto com o comando npm install
 
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+* Inicie o servidor com o comando npm start
+* Abra o navegador e acesse [http://localhost:3000](https://telemarketing-aw41.onrender.com/)
 
-## Ajuda
-
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
 
 ## Autores
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
+Desenvolvido por Aline Castro. Você pode entrar em contato com ela através do LinkedIn.
+[Aline Castro](https://www.linkedin.com/in/alinecastrosantos/)
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
-
-## Histórico de versões.
-
-* 0.2
-	* Ajustes de diversos bugs e otimização
-* 0.1
-    * Primeira versão
-
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
 
 ## Fontes de inspiração
 
