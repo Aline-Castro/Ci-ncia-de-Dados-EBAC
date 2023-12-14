@@ -27,7 +27,7 @@ https://telemarketing-aw41.onrender.com/
 ### Executando o projeto
 
 * Inicie o servidor com o comando npm start
-* Abra o navegador e acesse [http://localhost:3000](https://telemarketing-aw41.onrender.com/)
+* Abra o navegador e [acesse](https://telemarketing-aw41.onrender.com/)
 
 
 ## Autores
