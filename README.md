@@ -14,7 +14,7 @@
 
 ---
 
-Bem-vindo ao meu repositório! Aqui, você encontrará o progresso do meu aprendizado no curso de Ciência de Dados da Escola Britânica de Artes Criativas (EBAC). Este curso é uma jornada intensiva e abrangente através do fascinante mundo da Ciência de Dados, uma das áreas mais procuradas e de rápido crescimento no mundo da tecnologia.
+Bem-vindo(a) ao meu repositório! Aqui, você encontrará o progresso do meu aprendizado no curso de Ciência de Dados da Escola Britânica de Artes Criativas (EBAC). Este curso é uma jornada intensiva e abrangente através do fascinante mundo da Ciência de Dados, uma das áreas mais procuradas e de rápido crescimento no mundo da tecnologia.
 
 O curso da EBAC abrange uma ampla gama de tópicos, desde a programação em Python e SQL, até a aplicação de algoritmos de Machine Learning. Ele é projetado para fornecer uma compreensão sólida dos fundamentos da Ciência de Dados, bem como a oportunidade de aplicar e praticar essas habilidades em projetos do mundo real.
 
